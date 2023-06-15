@@ -11,4 +11,6 @@
 - Create model 1.0
 - Consultation
 ### Week 4
-- Searching Plants Information for 
+- Searching Plants Information for CC
+
+Link Model : [https://www.kaggle.com/code/panjie23/modified-resnet-layer]
