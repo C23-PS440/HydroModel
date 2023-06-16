@@ -14,5 +14,5 @@
 - Searching Plants Information for CC
 
 Link Model : https://www.kaggle.com/code/panjie23/modified-resnet-layer
-___
+
 Link Dataset : https://www.kaggle.com/datasets/panjie23/tes2plant
